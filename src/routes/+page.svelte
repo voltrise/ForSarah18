@@ -32,31 +32,31 @@
     {
       text: '"Semoga di tahun ini kamu diberi kesehatan, kebahagiaan dan semoga lancar dalam perkuliahan kamu!"',
       audio: '/audio/birthday/hbd-2.wav',
-      delay: 500,
+      delay: 300,
       choices: []
     },
     {
       text: '"Dan semoga cita-cita kamu cepat tercapai ya! dan semoga berkah untuk umur kamu yang ke-18 ini!"',
       audio: '/audio/birthday/hbd-3.wav',
-      delay: 500,
+      delay: 300,
       choices: []
     },
     {
       text: '"Dan... semoga kamu makin cantik dan manis ya! ehehe."',
       audio: '/audio/birthday/hbd-4-2.wav',
-      delay: 800,
+      delay: 500,
       choices: []
     },
     {
       text: '"Teman kamu, Devin, sekali lagi mengucapkan selamat ulang tahun padamu!"',
       audio: '/audio/birthday/hbd-5.wav',
-      delay: 500,
+      delay: 300,
       choices: []
     },
     {
-      text: '"-- dari Devin."',
+      text: '"jangan lupa buka link yang satu lagi oke,-- dari Devin"',
       audio: '/audio/birthday/epilogue.wav',
-      delay: 500,
+      delay: 300,
       choices: []
     }
   ];
