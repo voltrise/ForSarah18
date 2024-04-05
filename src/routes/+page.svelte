@@ -13,7 +13,7 @@
 
   const data = [
     {
-      text: 'Sensei! seseorang memberikan surat ini untukmu. Aku bacakan ya?',
+      text: 'Kak Sarah! seseorang memberikan surat ini untukmu. Aku bacakan ya?',
       audio: '/audio/birthday/ask-for-read.wav',
       delay: 0,
       choices: [
@@ -24,7 +24,7 @@
       ]
     },
     {
-      text: 'Dia bilang... "Selamat ulang tahun yang ke-22, feylynn! Semoga hari ini kamu dalam kondisi yang sehat dan berbahagia ya!"',
+      text: 'Dia bilang... "Selamat ulang tahun yang ke-18, Sarah! Semoga hari ini kamu dalam kondisi yang sehat dan berbahagia ya!"',
       audio: '/audio/birthday/hbd-1-2.wav',
       delay: 1200,
       choices: []
@@ -36,7 +36,7 @@
       choices: []
     },
     {
-      text: '"Dan semoga cita-cita kamu cepat tercapai ya! dan semoga berkah untuk umur kamu yang ke-22 ini!"',
+      text: '"Dan semoga cita-cita kamu cepat tercapai ya! dan semoga berkah untuk umur kamu yang ke-18 ini!"',
       audio: '/audio/birthday/hbd-3.wav',
       delay: 500,
       choices: []
@@ -48,13 +48,13 @@
       choices: []
     },
     {
-      text: '"Teman tercinta kamu, Kiizuha, sekali lagi mengucapkan selamat ulang tahun padamu!"',
+      text: '"Teman kamu, Devin, sekali lagi mengucapkan selamat ulang tahun padamu!"',
       audio: '/audio/birthday/hbd-5.wav',
       delay: 500,
       choices: []
     },
     {
-      text: '"-- dari Kiizuha."',
+      text: '"-- dari Devin."',
       audio: '/audio/birthday/epilogue.wav',
       delay: 500,
       choices: []
